@@ -1,0 +1,55 @@
+{
+    "OrbitsData": [
+
+        {
+			"BodyName": "Earth barycenter",
+			"AttractorName": "",
+			"AttractorMass": 0.0,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 0.0,
+			"W": 0.0,
+			"MA": 0.0,
+			"A": 0.0,
+			"Diameter": 0
+		},
+        {
+			"BodyName": "Earth",
+			"AttractorName": "Earth barycenter",
+			"AttractorMass": 2.6844749751125526e27,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 0.0,
+			"W": 0.0,
+			"MA": 0.0,
+			"A": 0.0,
+			"Diameter": 12.7,
+			"Color": {
+				"r": 0.9529412,
+				"g": 0.8,
+				"b": 0.25,
+				"a": 1.0
+			}
+        },
+
+        {
+			"BodyName": "Moon",
+			"AttractorName": "Earth barycenter",
+			"AttractorMass": 5.972189887017193e24,
+			"EC": 0.04500924806355468,
+			"IN": 90.0,
+			"OM": 88.9708536356446,
+			"W": 130.6531500023838,
+			"MA": 328.5176372848628,
+			"A": 0.002518548296417115,
+			"Diameter": 3.4,
+			"RangeMlt": 50,
+			"Color": {
+				"r": 0.341,
+				"g": 0.341,
+				"b": 0.341,
+				"a": 1.0
+			}
+		}
+    ]
+}
